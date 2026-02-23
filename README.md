@@ -1,3 +1,12 @@
+<html>
+<head>
+  <title>Portfolio de Ton Nom – Développeur web</title>
+  <meta charset="UTF-8" />
+  <meta name="description" content="Portfolio de rabarimalala Jocelyn, développeur web spécialisé en HTML, CSS et JavaScript basé à Madagascar." />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+  
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6f61;">RABARIMALALA  Jocelyn</span></h1>
 <h3 align="center">
   <em>Young Fullstack Developer</em> <br/>
@@ -30,4 +39,5 @@
 
 
 ---
-
+</body>
+</html>
