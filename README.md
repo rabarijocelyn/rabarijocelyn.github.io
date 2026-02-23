@@ -24,16 +24,10 @@
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONUSERNAME&layout=compact&theme=radical)
-
 ---
 
 ### 🔥 Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TONUSERNAME&color=ff6f61)
 
 ---
 
