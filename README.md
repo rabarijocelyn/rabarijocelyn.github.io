@@ -8,7 +8,7 @@
 - 💻 Passionné par le développement web  
 - 🌱 J’apprends actuellement JavaScript et React  
 - 🎯 Objectif : devenir développeur professionnel  
-- 📫 Contact : tonemail@email.com  
+- 📫 Contact : wazorjoslyn@email.com  
 
 ---
 
