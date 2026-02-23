@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#ff6f61;">TON NOM</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6f61;">RABARIMALALA  Jocelyn</span></h1>
 <h3 align="center">
   <em>Young Fullstack Developer</em> <br/>
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="typing animation"/>
@@ -11,7 +11,7 @@
 - 💻 Passionné par le développement web  
 - 🌱 J’apprends JavaScript, React et Node.js  
 - 🎯 Objectif : devenir développeur professionnel  
-- 📫 Contact : tonemail@email.com  
+- 📫 Contact : wazorjoslyn@email.com  
 
 ---
 
