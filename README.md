@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Portfolio de Ton Nom – Développeur web</title>
+  <title>Portfolio de RABARIAMALALA Jocelyn– Développeur web</title>
   <meta charset="UTF-8" />
   <meta name="description" content="Portfolio de rabarimalala Jocelyn, développeur web spécialisé en HTML, CSS et JavaScript basé à Madagascar." />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
