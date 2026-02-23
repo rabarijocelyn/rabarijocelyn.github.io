@@ -11,7 +11,7 @@
 - 💻 Passionné par le développement web  
 - 🌱 J’apprends JavaScript, React et Node.js  
 - 🎯 Objectif : devenir développeur professionnel  
-- 📫 Contact : wazorjoslyn@email.com  
+- 📫 Contact : wazorjoslyn@gmail.com  
 
 ---
 
