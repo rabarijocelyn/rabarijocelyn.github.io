@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6f61;">RABARIMALALA  Jocelyn</span></h1>
 <h3 align="center">
   <em>Young Fullstack Developer</em> <br/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Noc2N2cnlxZnVra21jOGJqMm9mYzhydmg0cWlqbDQ2dTlvM3djNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" height="400" width="200" alt="typing animation"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Noc2N2cnlxZnVra21jOGJqMm9mYzhydmg0cWlqbDQ2dTlvM3djNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" height="600" width="300" alt="typing animation"/>
 </h3>
 
 ---
